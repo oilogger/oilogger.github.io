@@ -17,7 +17,7 @@
 title: Oilogger
 email: oilogger@roepcke.com
 tagline: "Jim Roepcke's Oilers blog"
-description: "Oilogger was one of the first Oilers blogs in the world, originally launched in the year 2000 (in the year 2000). Let's give this another shot shall we?"
+description: "Oilogger was one of the first Oilers blogs in the world, originally launched in the year 2000 (in the year 2000). This is totally 2.0."
 
 url: http://oilogger.com
 baseurl: /
@@ -32,7 +32,6 @@ markdown: kramdown
 theme: minima
 
 # Dependencies
-markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
