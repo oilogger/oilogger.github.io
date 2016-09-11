@@ -32,7 +32,7 @@ markdown: kramdown
 theme: minima
 
 # Dependencies
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
