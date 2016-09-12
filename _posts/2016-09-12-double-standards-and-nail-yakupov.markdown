@@ -209,7 +209,7 @@ Agreed, thank you.
 
 He's CONNOR FREAKING MCDAVID. And as such, there will never be sample sizes large enough to prove that with any confidence.
 
-How does Eberle do when *he* isn't playing with bottom 6 players? Surprise! The sample sizes are so small it's practically <u>impossible</u> to know for sure, but from the table above we see Eberle produced around 20% as many  points playing with Gordon as he did McDavid, and about 32% as much playing with Lander as McDavid.
+How does Eberle do when *he* plays with bottom 6 players? Surprise! The sample sizes are so small it's practically <u>impossible</u> to know for sure, but from the table above we see Eberle produced around 20% as many  points playing with Gordon as he did McDavid, and about 32% as much playing with Lander as McDavid.
 
 What that tells me is that when a good player plays with BAD players, his production suffers. And logic dictates the same thing would happen to Yakupov. And it does.
 
