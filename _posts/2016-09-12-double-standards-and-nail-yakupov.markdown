@@ -7,9 +7,11 @@ categories: yakupov
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Keep seeing some bloggers/fans insist that Yakupov MUST play with McDavid. IMO that ship has sailed! Time for Yak to prove it... on his own!</p>&mdash; Bob Stauffer (@Bob_Stauffer) <a href="https://twitter.com/Bob_Stauffer/status/773731812656807936">September 8, 2016</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-That tweet from Bob Stauffer *nearly* got me to dust off Oilogger. I've been thinking about it for two years now.
+My desire to respond to that tweet from Bob Stauffer *nearly* got me to dust off Oilogger. I've been thinking about it for two years now.
 
-Just three days later, however, [this blog post finally did](http://oilonwhyte.com/2016/09/10/edmonton-oilers-yakupov-needs-prove-himself-by-himself/?utm_source=oilogger). There was no way to respond in 140 characters or less. I'm not sure I've ever disagreed more with a blog post about the Oilers, so here is my response to "Yakupov Needs to Prove Himself, By Himself".
+Just three days later, however, [this blog post finally did](http://oilonwhyte.com/2016/09/10/edmonton-oilers-yakupov-needs-prove-himself-by-himself/?utm_source=oilogger). There was no way to respond in 140 characters or less. I usually enjoy reading the articles on [Oil on Whyte](http://oilonwhyte.com), it's a great site, but this one I disagree with a lot, as you'll see. I feel it perpetuates a number of myths about Yakupov and the Oilers in general, and I want to gather my thoughts on the topic in one place.
+
+Without further ado, here is my response to "Yakupov Needs to Prove Himself, By Himself".
 <!--break-->
 
 > *[Silber](http://oilonwhyte.com/2016/09/10/edmonton-oilers-yakupov-needs-prove-himself-by-himself/?utm_source=oilogger)*: Edmonton Oilers winger Nail Yakupov hasn’t exactly been able to live up to the expectations put on his shoulders at the 2012 NHL Entry Draft. Automatically, the first-overall pick was <u>expected to turn around the Oilers franchise</u>... *[emphasis added]*
@@ -112,13 +114,13 @@ Versteeg would slot in either just above or just below Yakupov depending on your
 
 See [the quote by Matt Henderson above](#henderson).
 
-I'm sorry but this is ridiculous. Which of the young players the Oilers drafted starting with Eberle have *actually earned* their first-line spot to show him how that's done? What does it even *mean* to earn a first-line spot? Recall that the Oilers' blue-collar fanbase loves stories like Shawn Horcoff's, who famously worked his way up from the 4th line to "earn" a 1st line spot. Never mind that the Oilers simply had nobody better than him, gave him an outrageous contract he couldn't live up to, felt obligated to play him in the top-6 to justify the contract, and the Oilers missed the playoffs for 7 of 8 years years once he played on the first line.
+Which of the young players the Oilers drafted starting with Eberle (amazingly now the longest-serving Oiler) have *actually earned* their first-line spot to show him how that's done? What does it even *mean* to earn a first-line spot? Recall that the Oilers' blue-collar fanbase loves stories like Shawn Horcoff's, who famously worked his way up from the 4th line to "earn" a 1st line spot. Never mind that the Oilers simply had nobody better than him, gave him an outrageous contract he couldn't live up to, felt obligated to play him in the top-6 to justify the contract, and the Oilers missed the playoffs for 7 of 8 years years once he played on the first line.
 
-So, did Eberle earn his 1st line spot? He was gifted top-6 minutes from day 1 and was never put in the doghouse for terrible defensive play.
+So, did Eberle earn his 1st line spot? He was gifted top-6 minutes from day 1 and was never put in the doghouse for terrible defensive play. And there was a LOT of it.
 
 How about Hall? Same thing.
 
-Nuge? Not even close.
+Nuge? Ditto. His defensive game is better than Hall's or Eberle's but it's exceeded by its reputation.
 
 Draisaitl? Still hasn't made the first line, but he's **never** had to toil in the bottom 6. Neither did Nuge, Hall, or Eberle.
 
@@ -177,18 +179,18 @@ But wait, we know how Yakupov produced playing with top-6 players, but how have 
 
 #### 2012-2016 points per 60 minutes, 5-on-5, minimum 100 minutes
 
-Teammate  | [His P/60 with Eberle]() | (His P/60 with Yakupov) | Better with
-----------|--------------------------|-------------------------|------------
-McDavid   | 2.800                    | 3.507                   | Yakupov
-Hall      | 2.607                    | 3.595                   | Yakupov
-Gagner    | 1.554                    | 1.811                   | Yakupov
-Perron    | 2.193                    | 1.891                   | Eberle
-Pouliot   | 2.153                    | 2.070                   | Eberle
-RNH       | 1.785                    | 0.972                   | Eberle
-Draisaitl | 0.842                    | 0.694                   | Eberle
-Lander    | 0.000                    | 0.346                   | Yakupov
+Teammate  | His P/60 with Eberle | (His P/60 with Yakupov) | Better with
+----------|----------------------|-------------------------|------------
+[McDavid](http://stats.hockeyanalysis.com/showplayer.php?pid=1315&withagainst=true&season=2012-16&sit=5v5)   | 2.800                | 3.507                   | Yakupov
+[Hall](http://stats.hockeyanalysis.com/showplayer.php?pid=1341&withagainst=true&season=2012-16&sit=5v5)      | 2.607                | 3.595                   | Yakupov
+[Gagner](http://stats.hockeyanalysis.com/showplayer.php?pid=399&withagainst=true&season=2012-16&sit=5v5)    | 1.554                | 1.811                   | Yakupov
+[Perron](http://stats.hockeyanalysis.com/showplayer.php?pid=666&withagainst=true&season=2012-16&sit=5v5)    | 2.193                | 1.891                   | Eberle
+[Pouliot](http://stats.hockeyanalysis.com/showplayer.php?pid=730&withagainst=true&season=2012-16&sit=5v5)   | 2.153                | 2.070                   | Eberle
+[RNH](http://stats.hockeyanalysis.com/showplayer.php?pid=1535&withagainst=true&season=2012-16&sit=5v5)       | 1.785                | 0.972                   | Eberle
+[Draisaitl](http://stats.hockeyanalysis.com/showplayer.php?pid=1993&withagainst=true&season=2012-16&sit=5v5) | 0.842                | 0.694                   | Eberle
+[Lander](http://stats.hockeyanalysis.com/showplayer.php?pid=1534&withagainst=true&season=2012-16&sit=5v5)    | 0.000                | 0.346                   | Yakupov
 
-This table tells us a few things:
+This table tells us a couple things:
 
 - The two best players the Oilers have during Yakupov's career score at signficantly higher rates when playing with Yakupov than with Eberle. Too bad that doesn't prove he's ready for 1st line minutes.
 - The only player that does significantly better playing with Eberle is RNH, who I'll remind you can bring the best out of Eberle, and would be Eberle's linemate if Yakupov plays with McDavid.
