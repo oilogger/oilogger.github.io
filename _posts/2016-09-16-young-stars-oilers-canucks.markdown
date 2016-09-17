@@ -4,7 +4,7 @@ title:  "Young Stars G2: Oilers (4) vs Canucks (1)"
 date:   2016-09-16 23:02:00 -0700
 categories: rookies
 ---
-The NHL was in my backyard last night. I count my luck stars every September when the Canucks' Young Stars tournament approaches. I've had early looks at Nurse, Tkachev (sigh), Draisaitl, McDavid, and now Puljujarvi, not to mention Ehlrs, Bennett, Hutton, Virtanen, McCann (what a terrible trade), and more. Presumably I'll add Tkachuk to that list tomorrow.
+The NHL was in my backyard last night. I count my luck stars every September when the Canucks' Young Stars tournament approaches. I've had early looks at Nurse, Tkachev (sigh), Draisaitl, McDavid, Slepyshev, and now Puljujarvi, not to mention Ehlrs, Bennett, Gaudreau, Hutton, Virtanen, McCann (what a terrible trade), and more. Presumably I'll add Tkachuk to that list tomorrow.
 <!--break-->
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Oilers?src=hash">#Oilers</a> roster for the <a href="https://twitter.com/hashtag/YoungStars?src=hash">#YoungStars</a> tourney <a href="https://t.co/qY6Q5FKtPk">pic.twitter.com/qY6Q5FKtPk</a></p>&mdash; Jim Roepcke (@JimRoepckeOilrs) <a href="https://twitter.com/JimRoepckeOilrs/status/776970002335346688">September 17, 2016</a></blockquote>
