@@ -51,8 +51,6 @@ Another update: Pouliot takes another penalty! This one wasn't really his fault,
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Some beauty PP movement, and OIlers in a 2-0 hole to Sabres.<br>Pouliot&#39;s skate of shame could be his last strides in a while.</p>&mdash; Mark Spector (@SportsnetSpec) <a href="https://twitter.com/SportsnetSpec/status/787796722374160384">16 October 2016</a></blockquote>
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">How many of Benoit Pouliot’s coaches have an actual deep seeded hate on for him? He must infuriate everyone on his team.</p>&mdash; Beer League Heroes (@BeerLeagueHeroe) <a href="https://twitter.com/BeerLeagueHeroe/status/787802240677388288">16 October 2016</a></blockquote>
-
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">And in breaking news, Pouliot takes another minor.</p>&mdash; Rob Tychkowski (@Sun_Tychkowski) <a href="https://twitter.com/Sun_Tychkowski/status/787802887506178048">16 October 2016</a></blockquote>
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Pouliot up to six minor penalties in seven periods this season, but he does get his first goal of the year.</p>&mdash; Reid Wilkins (@ReidWilkins) <a href="https://twitter.com/ReidWilkins/status/787803625540157440">16 October 2016</a></blockquote>
