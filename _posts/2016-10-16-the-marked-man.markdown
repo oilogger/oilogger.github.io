@@ -17,7 +17,7 @@ All it took was a few penalties last game, and they smelled blood.
 
 It started before the game even started...
 
-<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Benoit Pouliot gets through the pre-game warmup without taking a minor.</p>&mdash; Rob Tychkowski (@Sun_Tychkowski) <a href="https://twitter.com/Sun_Tychkowski/status/787788103431749632">16 October 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Tweet of the night  <a href="https://t.co/nSj0btoj4f">https://t.co/nSj0btoj4f</a></p>&mdash; Dustin Nielson (@nielsonTSN1260) <a href="https://twitter.com/nielsonTSN1260/status/787788400673685504">16 October 2016</a></blockquote>
 
 Then Pouliot took another penalty, and they pounced.
 
