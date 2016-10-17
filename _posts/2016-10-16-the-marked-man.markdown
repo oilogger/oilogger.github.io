@@ -63,11 +63,30 @@ Not bad for one period's worth of work, boys! Pretty soon you can write your sto
 
 Now, obviously, Pouliot is taking too many penalties, and yes, it's a habit of his, but he's a great player and the Oilers are now short of great forwards after trading Hall and Yakupov and getting no forwards back for them. If you're an Oilers fan, you migth want to ask your local media to consider applying their hatchets to the opposing team's players now and then instead of ours.
 
-Update:
+**Update:**
 
 As the second period starts, another backhanded compliment:
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Nice set up by Pouliot, who had just stepped out of the penalty box, which kind of goes without saying.</p>&mdash; Rob Tychkowski (@Sun_Tychkowski) <a href="https://twitter.com/Sun_Tychkowski/status/787808257595158528">17 October 2016</a></blockquote>
+
+**Post game update:**
+
+Just as was the case with Yakupov, the media parrots the coach's narrative because it helps ensure their access to said coaches. McLellan has found his new whipping boy, and Oilers fans continue to be left with just a single perspective on the team.
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr"><a href="https://twitter.com/TSNRyanRishaug">@TSNRyanRishaug</a> What about Grybas 3?</p>&mdash; Lyndon Rich (@ribzyrich) <a href="https://twitter.com/ribzyrich/status/787838639443181568">17 October 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Pouliot owned the bad penalties, says he needs to be smarter with his stick, says he&#39;ll be fine next game.</p>&mdash; Ryan Rishaug (@TSNRyanRishaug) <a href="https://twitter.com/TSNRyanRishaug/status/787837291670573056">17 October 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">&quot;I knew it was coming. I have to be smarter.&quot; Pouliot on being benched for final 40 minutes after taking two penalties.</p>&mdash; Jason Gregor (@JasonGregor) <a href="https://twitter.com/JasonGregor/status/787839333617106944">17 October 2016</a></blockquote>
+
+I'll give the last word to Derek Blasutti:
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Pouliot takes dumb penalties sometimes. The problem is, when you sit him you have to do stupid things like play Letestu more.</p>&mdash; Derek Blasutti (@dawgbone98) <a href="https://twitter.com/dawgbone98/status/787834945427431428">17 October 2016</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">McLellan can rightfully shit on Pouliot for bad penalties, but it was 2-2 when he stapled him to the bench.</p>&mdash; Derek Blasutti (@dawgbone98) <a href="https://twitter.com/dawgbone98/status/787838569129844736">17 October 2016</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Go Oilers Go...
 
 ---
 
