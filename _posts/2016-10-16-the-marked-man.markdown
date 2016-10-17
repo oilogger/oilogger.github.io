@@ -13,7 +13,13 @@ When the Oilers mainstream media puts you in their sights, look out. This is the
 
 Fresh off their successful campaign of running Nail Yakupov out of town and destroying the team's potential return in the process, they've been desparately searching for their next target for the past week.
 
-All it took was a few penalties, and they smell blood.
+All it took was a few penalties last game, and they smelled blood.
+
+It started before the game even started...
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Benoit Pouliot gets through the pre-game warmup without taking a minor.</p>&mdash; Rob Tychkowski (@Sun_Tychkowski) <a href="https://twitter.com/Sun_Tychkowski/status/787788103431749632">16 October 2016</a></blockquote>
+
+Then Pouliot took another penalty, and they pounced.
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">OK, 5 minor penalties in 6 1/2 periods for Pouliot this year. This has to stop, right?</p>&mdash; Jim Matheson (@NHLbyMatty) <a href="https://twitter.com/NHLbyMatty/status/787797357182144512">16 October 2016</a></blockquote>
 
@@ -39,7 +45,7 @@ At least a few of the media took notice. Some had backhanded compliments, mind y
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Pouliot penalizes the Sabres in the offensive zone this time, makes it 1-0 if the replay holds up.</p>&mdash; Rob Tychkowski (@Sun_Tychkowski) <a href="https://twitter.com/Sun_Tychkowski/status/787801834354159616">16 October 2016</a></blockquote>
 
-Another update: Pouliot takes another penalty!
+Another update: Pouliot takes another penalty! This one wasn't really his fault, but does it really matter?
 
 <blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Pouliot offensive zone trip. Minor penalty count now at 6.</p>&mdash; Dustin Nielson (@nielsonTSN1260) <a href="https://twitter.com/nielsonTSN1260/status/787802981550788608">16 October 2016</a></blockquote>
 
