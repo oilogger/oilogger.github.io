@@ -94,6 +94,8 @@ This next video starts 1:10 in. See also: 1:28, 3:16, and 3:44, and 9:58.
 
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xgYx3HIRLq4?start=70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
+This one was Nielson's Exhibit A but it was so good I wanted to include it with the other goals he scored on the Oilers.
+
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ci8NF17KFnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MwHUCoTlXl0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
