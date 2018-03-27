@@ -102,7 +102,7 @@ This next video starts 1:10 in. See also: 1:28, 3:16, and 3:44, and 9:58.
 
 I rest my case.
 
-Preach it, Oilers fans! \[#FreePuljujarvi](https://twitter.com/hashtag/FreePuljujarvi?lang=en) \[#McDavidForHart](https://twitter.com/hashtag/McDavidForHart?lang=en) \[#FireChiarelli](https://twitter.com/hashtag/FireChiarelli?lang=en) \[#FireMcLellan](https://twitter.com/hashtag/FireMcLellan?lang=en) \[#FireWoodcroft](https://twitter.com/hashtag/FireWoodcroft?lang=en) \[#FireJohnson](https://twitter.com/hashtag/FireJohnson?lang=en)
+Preach it, Oilers fans! [#FreePuljujarvi](https://twitter.com/hashtag/FreePuljujarvi?lang=en) [#McDavidForHart](https://twitter.com/hashtag/McDavidForHart?lang=en) [#FireChiarelli](https://twitter.com/hashtag/FireChiarelli?lang=en) [#FireMcLellan](https://twitter.com/hashtag/FireMcLellan?lang=en) [#FireWoodcroft](https://twitter.com/hashtag/FireWoodcroft?lang=en) [#FireJohnson](https://twitter.com/hashtag/FireJohnson?lang=en)
 Go Oilers Go...
 
 ---
