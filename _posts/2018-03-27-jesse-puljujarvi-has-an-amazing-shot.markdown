@@ -10,7 +10,7 @@ Last week Dustin Nielson of TSN1260 published a blog post on OilersNation, [The 
 
 > I was recently told by someone in the Oilers department of hockey operations that Puljujarvi has yet to prove he can one-time the puck well enough to see regular time on the man advantage. “Not a great shooter” I was told. I respectfully disagree.
 
-Someone being **paid** by the Oilers to advice or direct hockey operations thinks Jesse Puljujärvi is "not a great shooter". I must ask: did this person also think Oliver Ekman-Larsson played for the New Jersey Devils in 2015-16?
+Someone being **paid** by the Oilers to advise or direct hockey operations thinks Jesse Puljujärvi is "not a great shooter". I must ask: did this person also think Oliver Ekman-Larsson played for the New Jersey Devils in 2015-16?
 
 <!--break-->
 
