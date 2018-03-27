@@ -38,7 +38,7 @@ I know there are a few duplicated goals in the videos below. Sorry, but not sor
 
 This next video starts 1:11 in. See also: 1:38, 2:25, 2:42, and 3:03.
 
-<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0DMes_uwJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0DMes_uwJI?start=71" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 <p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u0-ek9cSXbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
