@@ -34,71 +34,71 @@ I've started each video below at an appropriate timestamp where he scores a goal
 
 I know there are a few duplicated goals in the videos below. Sorry, but not sorry, because you're going to enjoy watching all of these more than once.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Zw5nBpp5mw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2Zw5nBpp5mw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 1:11 in. See also: 1:38, 2:25, 2:42, and 3:03.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0DMes_uwJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0DMes_uwJI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u0-ek9cSXbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u0-ek9cSXbA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FLy4BaYMZjc?start=38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/FLy4BaYMZjc?start=38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 1:08 in. See also: 3:58, 4:20, 4:32, 4:54, 6:08, 6:18, and 8:02.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wdTpfxDhiw?start=68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4wdTpfxDhiw?start=68" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3qr7lmRz2wc?start=155" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3qr7lmRz2wc?start=155" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qFZ_UB3xRUI?start=34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qFZ_UB3xRUI?start=34" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hFJ5K7Qs2K0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hFJ5K7Qs2K0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IzMZ4biOVxo?start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IzMZ4biOVxo?start=4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 0:22 in. See also: 1:30.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dq_ivPHulIw?start=22" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dq_ivPHulIw?start=22" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WNAi5Yz1n1w?start=40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WNAi5Yz1n1w?start=40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/14HSLXrOztE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/14HSLXrOztE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2T_hGuX5n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d2T_hGuX5n8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K8nvLspvKp0?start=98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K8nvLspvKp0?start=98" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 1:40 in. See also: 1:56, and 2:14.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/895_zVVwEwA?start=100" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/895_zVVwEwA?start=100" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 He doesn't score in this next video, but I marvelled watching him control this powerplay and create chance after chance. Wouldn't this look good on the Oilers right now?
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/895_zVVwEwA?start=440" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/895_zVVwEwA?start=440" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cHWMBReb5KU?start=17" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cHWMBReb5KU?start=17" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tnuM1AjH-oU?start=125" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/tnuM1AjH-oU?start=125" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 1:05 in. See also: 2:28.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CjYfEu9F1Y?start=65" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8CjYfEu9F1Y?start=65" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ze12-ZBjt04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ze12-ZBjt04" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F49zEOONpNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F49zEOONpNk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b0H7LfylDeY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b0H7LfylDeY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 This next video starts 1:10 in. See also: 1:28, 3:16, and 3:44, and 9:58.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xgYx3HIRLq4?start=70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xgYx3HIRLq4?start=70" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ci8NF17KFnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ci8NF17KFnc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MwHUCoTlXl0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MwHUCoTlXl0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zgyd69coZyA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zgyd69coZyA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 I rest my case.
 
